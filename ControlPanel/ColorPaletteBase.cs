@@ -2,18 +2,15 @@
 {
     public class ColorPaletteBase
     {
-        public string pinkClay { get; set; }
-        public string casterSugar { get; set; }
-        public string cleanNCrisp { get; set; }
-        public string lickOfLime { get; set; }
-
-        public ColorPaletteBase()
-        {
-            pinkClay = "#FFD4D4";
-            casterSugar = "#FFFFE8"; // background color
-            cleanNCrisp = "#CDE990"; // panel title bar
-            lickOfLime = "#AACB73"; 
-        }
-
+        public string pinkClay = "#FFD4D4";    
+        public string casterSugar = "#FFFFE8"; // background color
+        public string cleanNCrisp = "#CDE990"; // panel title bar
+        public string lickOfLime = "#AACB73";
+        public string cherryBomb = "#B73E3E";  // Text Color
+        public string limeGranita = "#DAE2B6";
+        public string superSilver = "#707070";
+        public string gnomeGreen = "#B0C680";
+        public string darkBlack = "#000000";
+        public string foggyLondon = "#5B5757";
     }
 }
